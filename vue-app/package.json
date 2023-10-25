@@ -30,7 +30,7 @@
     "@vueuse/core": "^9.6.0",
     "@walletconnect/ethereum-provider": "^2.9.0",
     "@walletconnect/modal": "^2.6.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "ethereum-blockies-base64": "^1.0.2",
     "ethers": "^5.7.2",
     "floating-vue": "^2.0.0-beta.20",
